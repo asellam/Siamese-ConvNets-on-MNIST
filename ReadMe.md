@@ -1,0 +1,1 @@
+This is a Jupyter Notebook that explains how to implement Siamese ConvNets using Keras API. The MNIST data is used for training and evaluation. 
